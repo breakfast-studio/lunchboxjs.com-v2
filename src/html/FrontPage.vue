@@ -17,7 +17,7 @@
                 </li>
                 <li>
                     <a
-                        href="//github.com/breakfast-studio/lunchboxjs.com"
+                        href="//github.com/breakfast-studio/lunchboxjs.com-v2"
                         target="_blank"
                         >Source for this site</a
                     >
