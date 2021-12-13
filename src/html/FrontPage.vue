@@ -58,7 +58,6 @@
             &:hover,
             &:focus {
                 text-decoration: none;
-                background: white;
             }
         }
         ul {
