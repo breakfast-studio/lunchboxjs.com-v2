@@ -3,7 +3,7 @@
         <!-- Intro -->
         <div class="intro">
             <h1>LunchboxJS</h1>
-            <h2>Vue 3 + Three.js custom renderer</h2>
+            <h2>ThreeJS web components<br/>Write once, use in any (or no) framework.</h2>
             <ul class="info">
                 <li>
                     <a
